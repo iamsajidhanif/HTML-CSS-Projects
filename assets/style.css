@@ -1,16 +1,17 @@
 *{
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        background-color: gray;
-}
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        /* background-color: #FFFFFF; */
 
+}
 h1{
-        color: rgb(157, 206, 22);
+        color: #00033B;
 }
 
 h2{
-        color: rgb(10, 66, 122);
+        color: rgb(24, 95, 228);
 }
 
 h3{
-        color: blueviolet
-}
+        color: blueviolet; 
+
+}       
